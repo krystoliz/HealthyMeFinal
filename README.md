@@ -3,4 +3,5 @@
 
 <h1> How to run the App </h1>
 <p>Run the HealthyMe.exe file</p>
-
+<p>Username = admin</p>
+<p>Password = admin</p>
